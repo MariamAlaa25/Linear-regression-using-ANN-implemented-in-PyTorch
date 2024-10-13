@@ -1,9 +1,9 @@
 
-#Objective
+Objective
 ------------------------------------------------------------
 The objective of this task is to conduct linear regression with an Artificial Neural Network (ANN) built in PyTorch, focusing on analyzing the relationship between prices and area within a dataset. The goal is to create, train, and assess the ANN model, along with visualizing the results.
 
-#Dataset Description
+Dataset Description
 -------------------------------------------------------------
 The dataset consists of 13 columns:
 
@@ -35,7 +35,7 @@ furnishingstatus: Furnishing status of the house (furnished, semi-furnished, unf
 
 This dataset describes the relation between the the aspects of a house and its price
 
-#Steps to Run the Code in Google Colab
+Steps to Run the Code in Google Colab
 ---------------------------------------------------------------
 
 1-Open Google Colab: Navigate to Google Colab.
@@ -53,7 +53,7 @@ You can install any missing libraries using:
 
 !pip install numpy pandas torch matplotlib scikit-learn
 
-##Dependencies
+Dependencies
 --------------------------------------------------------------
 -Python Libraries:
 
